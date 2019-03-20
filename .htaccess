@@ -9,3 +9,5 @@ RewriteRule ^(.*)$ /index.php/$1 [L]
 
 # Prevent the web from seeing the readme.md just to be safe
 RewriteRule ^README\.MD$ - [L,F]
+
+#i am here
